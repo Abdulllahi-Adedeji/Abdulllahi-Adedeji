@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hello, I'm Abdullahi
+🎓 Computer Science Student
+💡 Passionate about Software Development & Technology
 
-<!--
-**Abdulllahi-Adedeji/Abdulllahi-Adedeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I am a motivated Computer Science student with a strong interest in building real-world software solutions.
+I enjoy combining logical thinking with creativity to develop applications that solve practical problems.
 
-Here are some ideas to get you started:
+Currently, I am improving my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development
+Java Programming
+Software System Design
+ERP System Development Concepts
+🛠️ Technologies & Tools
+💻 HTML, CSS, JavaScript
+☕ Java
+🛠️ Git & GitHub
+🖥️ VS Code
+📈 What I’m Focused On
+Strengthening my problem-solving skills
+Building portfolio projects
+Learning advanced programming concepts
+Preparing for professional software engineering roles
+🎯 Long-Term Vision
+To become a skilled software engineer who builds scalable and impactful systems.
+
+🎮 Outside Tech
+When I'm not coding, you'll find me:
+
+Playing football or basketball
+Gaming
+Listening to music
